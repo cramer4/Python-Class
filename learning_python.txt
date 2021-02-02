@@ -1,4 +1,0 @@
-
-In Python you can do math to solve problems.
-In Python you can process a lot of data, and set up a well formatted output.
-In Python you can access txt files to use later.
